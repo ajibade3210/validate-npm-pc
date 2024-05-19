@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs" /* Specify what module version code is generated. */,
+    "rootDir": "./" /* Specify rootDir to point to the root of our project. */,
+    "outDir": "./dist" /* Specify /dist folder as the output folder for all emitted files. */,
+    "declaration": true /* Generate .d.ts files from TypeScript and JavaScript files 
+    in the project. */
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "**/__tests__/*"]
+}
