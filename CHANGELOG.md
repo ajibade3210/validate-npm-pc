@@ -1,5 +1,11 @@
 # validate-npm-pc
 
+## 1.0.8
+
+### Patch Changes
+
+- 4371fc0: test/publish-process-another-update
+
 ## 1.0.7
 
 ### Patch Changes
