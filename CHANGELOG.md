@@ -1,5 +1,11 @@
 # validate-npm-pc
 
+## 1.0.6
+
+### Patch Changes
+
+- 8aed3fe: publish new
+
 ## 1.0.5
 
 ### Patch Changes
