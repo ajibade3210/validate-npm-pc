@@ -1,5 +1,12 @@
 # validate-npm-pc
 
+## 1.0.5
+
+### Patch Changes
+
+- 46c9206: add type to jest
+- e4c2114: add package type
+
 ## 1.0.4
 
 ### Patch Changes
