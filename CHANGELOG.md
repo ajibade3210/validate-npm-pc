@@ -1,5 +1,11 @@
 # validate-npm-pc
 
+## 1.0.4
+
+### Patch Changes
+
+- ee3a7db: test publish process
+
 ## 1.0.3
 
 ### Patch Changes
