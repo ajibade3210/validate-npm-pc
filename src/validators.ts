@@ -40,8 +40,7 @@ export const validSocial = (url: string): boolean => {
   const socialRegexMap: Map<string, RegExp> = new Map([
     ["facebook", /^(https?:\/\/)?(www\.)?facebook.com\/[a-zA-Z0-9._-]+\/?$/],
     ["twitter", /^(https?:\/\/)?(www\.)?twitter.com\/[a-zA-Z0-9_]+\/?$/],
-    ["tiktok", /^(https?:\/\/)?(www\.)?tiktok.com\/[a-zA-Z0-9_]+\/?$/],
-    ["snapchat", /^(https?:\/\/)?(www\.)?snapchat.com\/[a-zA-Z0-9_]+\/?$/],
+    ["tiktok", /^(https?:\/\/)?(www\.)?tiktok.com\/[a-zA-Z0-9_]+\/?$/]
     // Add more social platforms' regex patterns here
   ]);
   return Array.from(socialRegexMap.values()).some(regex => regex.test(url));
