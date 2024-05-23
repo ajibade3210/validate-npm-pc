@@ -1,5 +1,11 @@
 # validate-npm-pc
 
+## 1.0.9
+
+### Patch Changes
+
+- ec9d61a: Module fix
+
 ## 1.0.8
 
 ### Patch Changes
