@@ -1,3 +1,2 @@
-export { validMobileNo } from "./validators";
-export { validEmail } from "./validators";
-export { validSocial } from "./validators";
+import { validEmail, validMobileNo, validSocial } from "./validate";
+export { validEmail, validMobileNo, validSocial };
