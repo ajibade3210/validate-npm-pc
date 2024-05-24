@@ -1,5 +1,11 @@
 # validate-npm-pc
 
+## 1.0.10
+
+### Patch Changes
+
+- bad9fea: update validate test
+
 ## 1.0.9
 
 ### Patch Changes
